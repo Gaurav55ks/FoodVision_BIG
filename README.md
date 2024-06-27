@@ -35,19 +35,3 @@ pinned: false
 license: mit
 ---
 
-
-### Steps to Use
-
-1. **Copy the Markdown**: Select all the text above, right-click, and choose "Copy" (or use Ctrl+C on Windows/Linux, Command+C on macOS).
-   
-2. **Create or Update README.md**: 
-   - Navigate to your repository on GitHub.
-   - Click on the existing `README.md` file or create a new one if it doesn't exist.
-   - Edit the file and paste the copied content.
-
-3. **Commit Changes**: Scroll down to the bottom of the page, add a commit message (e.g., "Update README with project details"), and click on "Commit changes".
-
-4. **Verify on GitHub**: Refresh your repository page on GitHub to see the updated README.md file.
-
-This single file provides a comprehensive overview of your project, making your GitHub repository more informative and visually appealing. Adjust any specific details or add more sections as needed for your project's requirements.
-
