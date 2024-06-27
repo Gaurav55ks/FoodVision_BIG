@@ -21,17 +21,3 @@ To get started, clone the repository and install the dependencies:
 git clone https://github.com/Gaurav55ks/FoodVision_BIG.git
 cd FoodVision_BIG
 pip install -r requirements.txt
-```
----
-title: FoodVision BIG
-framework: PyTorch
-emoji: ⚡
-colorFrom: gray
-colorTo: indigo
-sdk: gradio
-sdk_version: 4.37.1
-app_file: app.py
-pinned: false
-license: mit
----
-
