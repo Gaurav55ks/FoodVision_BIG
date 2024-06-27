@@ -1,5 +1,8 @@
+Machine Learning model to classify 101 different types of food images using the FOOD101 dataset!
+
 ---
 title: FoodVision BIG
+framework: PyTorch
 emoji: ⚡
 colorFrom: gray
 colorTo: indigo
